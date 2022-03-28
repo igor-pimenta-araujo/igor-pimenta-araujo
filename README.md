@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @igor-pimenta-araujo
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning laravel, vue.js, docker
+- 💞️ I’m looking to collaborate on laravel projects
+- 📫 How to reach me hsigor@outlook.com.br
